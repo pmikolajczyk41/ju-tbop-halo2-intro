@@ -5,3 +5,4 @@ edition = "2021"
 
 [dependencies]
 halo2_proofs = { version = "0.3.0" }
+halo2curves = { version = "0.6.1" }
